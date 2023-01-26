@@ -1,24 +1,38 @@
-```Hi, I’m @Elliott-Andrews ```
+ <h5> <p align="center">  Hi, I’m @Elliott-Andrews </p> </h5>
+<div align ="center" id="badges">
+  <a href="www.linkedin.com" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="www.Youtube.com" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ </a>
+ <a href="www.Twitter.com" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
- <i> I’m interested in learning for Software Development, specialising in starting steps in certain languages.</i>
+ <i> <p align="center"> I’m interested in learning for Software Development, specialising in starting steps in certain languages. </p> </i>
  
  <hr> </hr>
  
  
- <h3> I’m currently learning learning the following languages: </h3>
+<h3>  <p align="center"> I’m currently learning learning the following languages: </p> </h3>
 
-<p align="left"> 
-<img src="https://i.imgur.com/Qhqzi1L.png" width="500">
-</p>
+
+ <p align="center">
+ <a href="https://www.java.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="c" width="40" height="40"/> 
+ </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> 
+ </a>
+ <a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ </a> </p>
 
 <hr> </hr>
 
 [![Elliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliott-Andrews&show_icons=true&theme=radical&include_all_commits=false)](https://github.com/Elliott-Andrews/github-readme-stats)
 
-<hr> </hr> 
 
-<p align="left"> 
-  <h4> Visitor count </h4> <br>
-  <img src="https://profile-counter.glitch.me/Elliott-Andrews/count.svg" />
-</p>
-<i> Credit to @sagar-viradiya for the Counter! </i>
+<hr> </hr> 
