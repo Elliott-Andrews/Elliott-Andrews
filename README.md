@@ -17,7 +17,7 @@
 </div>
 
  <!-- Small italic text showing my interest  -->
- <i> <p align="center"> I’m interested in learning for Software Development, specialising in starting steps in certain languages. </p> </i>
+ <i> <p align="center"> I’m interested in learning Software Development, currently in the starting steps in certain languages. </p> </i>
  
  <hr> </hr>
  
