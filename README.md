@@ -22,7 +22,7 @@
  <hr> </hr>
  
   <!-- Languages start  -->
-<h3>  <p align="center"> I’m currently learning learning the following languages: </p> </h3>
+<h3>  <p align="center"> I’m currently learning the following languages: </p> </h3>
 
 
  <p align="center">
